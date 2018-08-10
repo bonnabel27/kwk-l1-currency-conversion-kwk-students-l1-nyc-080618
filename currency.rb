@@ -3,4 +3,4 @@ def usd_to_eur(input)
   return coins
 end
 
-def eur_to_usd (in)
+def eur_to_usd (input)
