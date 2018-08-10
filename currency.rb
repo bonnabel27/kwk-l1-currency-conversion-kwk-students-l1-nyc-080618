@@ -9,4 +9,4 @@ def eur_to_usd (input)
   return coins
 end
 
-puts eur_to_usd(5)
+
